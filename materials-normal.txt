@@ -1,0 +1,6 @@
+wood
+steel
+iron
+stone
+glass
+bone

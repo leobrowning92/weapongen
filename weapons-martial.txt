@@ -1,0 +1,23 @@
+throwing axe
+hammer
+handaxe
+war pick
+sap
+short sword
+long knife
+battleaxe
+flail
+lance
+longsword
+rapier
+scimitar
+sabre
+trident
+warhammer
+glaive
+greatsword
+greataxe
+scythe
+shortbow
+longbow
+whip

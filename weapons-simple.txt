@@ -1,0 +1,10 @@
+dagger
+mace
+club
+spear
+morningstar
+staff
+crossbow
+dart
+sling
+javelin
